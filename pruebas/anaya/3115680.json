@@ -1,0 +1,54 @@
+{
+  "idElemento": "3115680",
+  "cliente": 34,
+  "contacto": 171,
+  "suReferencia": 7174683,
+  "numeroOf": "6209888",
+  "numeroOtCliente": "1133010",
+  "fechaEntrega": "2025-10-17",
+  "sinRetraso": false,
+  "tirada": 500,
+  "precioToltalSinIVA": 1534.07,
+  "quiereVerFerros": 3,
+  "observacionesPedido": "Reimpresiones Se envian archivos con copy actualizados Entregad en paquetes de 20 ejemplares aprox. Cada paquete con su etiqueta; sobre palets europeos. GRACIAS",
+  "titulo": "Seis cerezas y media/",
+  "sello": "Bruño",
+  "codProyecto": "BS010255",
+  "anchoPaginaCm": 13,
+  "altoPaginaCm": 21,
+  "unionPliegos": 2,
+  "encuadernacion": 3,
+  "solapa": false,
+  "hendidoCortesia": true,
+  "interiores": [
+    {
+      "papel_id": 112,
+      "propietarioPapel": 1,
+      "tipoImpresion": 2,
+      "calidad": "Ahuesado",
+      "paginas": 160,
+      "papelPedido": {
+        "refPedido": "Ahuesado Oria",
+        "gramaje": 90,
+        "anchoBobinaCm": 50,
+        "ups": 3
+      }
+    }
+  ],
+  "cubierta": {
+    "plastificado": 2,
+    "impresion": "4/0",
+    "tecnologia": 1
+  },
+  "direcciones": [
+    {
+      "direccionId": "2",
+      "ejemplares": 500
+    }
+  ],
+  "filePath": "pruebas/anaya/3115680.json",
+  "contentB64": "ewogICJpZEVsZW1lbnRvIjogIjMxMTU2ODAiLAogICJjbGllbnRlIjogMzQsCiAgImNvbnRhY3RvIjogMTcxLAogICJzdVJlZmVyZW5jaWEiOiA3MTc0NjgzLAogICJudW1lcm9PZiI6ICI2MjA5ODg4IiwKICAibnVtZXJvT3RDbGllbnRlIjogIjExMzMwMTAiLAogICJmZWNoYUVudHJlZ2EiOiAiMjAyNS0xMC0xNyIsCiAgInNpblJldHJhc28iOiBmYWxzZSwKICAidGlyYWRhIjogNTAwLAogICJwcmVjaW9Ub2x0YWxTaW5JVkEiOiAxNTM0LjA3LAogICJxdWllcmVWZXJGZXJyb3MiOiAzLAogICJvYnNlcnZhY2lvbmVzUGVkaWRvIjogIlJlaW1wcmVzaW9uZXMgU2UgZW52aWFuIGFyY2hpdm9zIGNvbiBjb3B5IGFjdHVhbGl6YWRvcyBFbnRyZWdhZCBlbiBwYXF1ZXRlcyBkZSAyMCBlamVtcGxhcmVzIGFwcm94LiBDYWRhIHBhcXVldGUgY29uIHN1IGV0aXF1ZXRhOyBzb2JyZSBwYWxldHMgZXVyb3Blb3MuIEdSQUNJQVMiLAogICJ0aXR1bG8iOiAiU2VpcyBjZXJlemFzIHkgbWVkaWEvIiwKICAic2VsbG8iOiAiQnJ1w7FvIiwKICAiY29kUHJveWVjdG8iOiAiQlMwMTAyNTUiLAogICJhbmNob1BhZ2luYUNtIjogMTMsCiAgImFsdG9QYWdpbmFDbSI6IDIxLAogICJ1bmlvblBsaWVnb3MiOiAyLAogICJlbmN1YWRlcm5hY2lvbiI6IDMsCiAgInNvbGFwYSI6IGZhbHNlLAogICJoZW5kaWRvQ29ydGVzaWEiOiB0cnVlLAogICJpbnRlcmlvcmVzIjogWwogICAgewogICAgICAicGFwZWxfaWQiOiAxMTIsCiAgICAgICJwcm9waWV0YXJpb1BhcGVsIjogMSwKICAgICAgInRpcG9JbXByZXNpb24iOiAyLAogICAgICAiY2FsaWRhZCI6ICJBaHVlc2FkbyIsCiAgICAgICJwYWdpbmFzIjogMTYwLAogICAgICAicGFwZWxQZWRpZG8iOiB7CiAgICAgICAgInJlZlBlZGlkbyI6ICJBaHVlc2FkbyBPcmlhIiwKICAgICAgICAiZ3JhbWFqZSI6IDkwLAogICAgICAgICJhbmNob0JvYmluYUNtIjogNTAsCiAgICAgICAgInVwcyI6IDMKICAgICAgfQogICAgfQogIF0sCiAgImN1YmllcnRhIjogewogICAgInBsYXN0aWZpY2FkbyI6IDIsCiAgICAiaW1wcmVzaW9uIjogIjQvMCIsCiAgICAidGVjbm9sb2dpYSI6IDEKICB9LAogICJkaXJlY2Npb25lcyI6IFsKICAgIHsKICAgICAgImRpcmVjY2lvbklkIjogIjIiLAogICAgICAiZWplbXBsYXJlcyI6IDUwMAogICAgfQogIF0KfQ==",
+  "commitMsg": "Test ANAYA 3115680 (2026-01-02-11-48-31)",
+  "fileContent": "{\n  \"idElemento\": \"3115680\",\n  \"cliente\": 34,\n  \"contacto\": 171,\n  \"suReferencia\": 7174683,\n  \"numeroOf\": \"6209888\",\n  \"numeroOtCliente\": \"1133010\",\n  \"fechaEntrega\": \"2025-10-17\",\n  \"sinRetraso\": false,\n  \"tirada\": 500,\n  \"precioToltalSinIVA\": 1534.07,\n  \"quiereVerFerros\": 3,\n  \"observacionesPedido\": \"Reimpresiones Se envian archivos con copy actualizados Entregad en paquetes de 20 ejemplares aprox. Cada paquete con su etiqueta; sobre palets europeos. GRACIAS\",\n  \"titulo\": \"Seis cerezas y media/\",\n  \"sello\": \"Bruño\",\n  \"codProyecto\": \"BS010255\",\n  \"anchoPaginaCm\": 13,\n  \"altoPaginaCm\": 21,\n  \"unionPliegos\": 2,\n  \"encuadernacion\": 3,\n  \"solapa\": false,\n  \"hendidoCortesia\": true,\n  \"interiores\": [\n    {\n      \"papel_id\": 112,\n      \"propietarioPapel\": 1,\n      \"tipoImpresion\": 2,\n      \"calidad\": \"Ahuesado\",\n      \"paginas\": 160,\n      \"papelPedido\": {\n        \"refPedido\": \"Ahuesado Oria\",\n        \"gramaje\": 90,\n        \"anchoBobinaCm\": 50,\n        \"ups\": 3\n      }\n    }\n  ],\n  \"cubierta\": {\n    \"plastificado\": 2,\n    \"impresion\": \"4/0\",\n    \"tecnologia\": 1\n  },\n  \"direcciones\": [\n    {\n      \"direccionId\": \"2\",\n      \"ejemplares\": 500\n    }\n  ],\n  \"filePath\": \"pruebas/anaya/3115680.json\",\n  \"contentB64\": \"ewogICJpZEVsZW1lbnRvIjogIjMxMTU2ODAiLAogICJjbGllbnRlIjogMzQsCiAgImNvbnRhY3RvIjogMTcxLAogICJzdVJlZmVyZW5jaWEiOiA3MTc0NjgzLAogICJudW1lcm9PZiI6ICI2MjA5ODg4IiwKICAibnVtZXJvT3RDbGllbnRlIjogIjExMzMwMTAiLAogICJmZWNoYUVudHJlZ2EiOiAiMjAyNS0xMC0xNyIsCiAgInNpblJldHJhc28iOiBmYWxzZSwKICAidGlyYWRhIjogNTAwLAogICJwcmVjaW9Ub2x0YWxTaW5JVkEiOiAxNTM0LjA3LAogICJxdWllcmVWZXJGZXJyb3MiOiAzLAogICJvYnNlcnZhY2lvbmVzUGVkaWRvIjogIlJlaW1wcmVzaW9uZXMgU2UgZW52aWFuIGFyY2hpdm9zIGNvbiBjb3B5IGFjdHVhbGl6YWRvcyBFbnRyZWdhZCBlbiBwYXF1ZXRlcyBkZSAyMCBlamVtcGxhcmVzIGFwcm94LiBDYWRhIHBhcXVldGUgY29uIHN1IGV0aXF1ZXRhOyBzb2JyZSBwYWxldHMgZXVyb3Blb3MuIEdSQUNJQVMiLAogICJ0aXR1bG8iOiAiU2VpcyBjZXJlemFzIHkgbWVkaWEvIiwKICAic2VsbG8iOiAiQnJ1w7FvIiwKICAiY29kUHJveWVjdG8iOiAiQlMwMTAyNTUiLAogICJhbmNob1BhZ2luYUNtIjogMTMsCiAgImFsdG9QYWdpbmFDbSI6IDIxLAogICJ1bmlvblBsaWVnb3MiOiAyLAogICJlbmN1YWRlcm5hY2lvbiI6IDMsCiAgInNvbGFwYSI6IGZhbHNlLAogICJoZW5kaWRvQ29ydGVzaWEiOiB0cnVlLAogICJpbnRlcmlvcmVzIjogWwogICAgewogICAgICAicGFwZWxfaWQiOiAxMTIsCiAgICAgICJwcm9waWV0YXJpb1BhcGVsIjogMSwKICAgICAgInRpcG9JbXByZXNpb24iOiAyLAogICAgICAiY2FsaWRhZCI6ICJBaHVlc2FkbyIsCiAgICAgICJwYWdpbmFzIjogMTYwLAogICAgICAicGFwZWxQZWRpZG8iOiB7CiAgICAgICAgInJlZlBlZGlkbyI6ICJBaHVlc2FkbyBPcmlhIiwKICAgICAgICAiZ3JhbWFqZSI6IDkwLAogICAgICAgICJhbmNob0JvYmluYUNtIjogNTAsCiAgICAgICAgInVwcyI6IDMKICAgICAgfQogICAgfQogIF0sCiAgImN1YmllcnRhIjogewogICAgInBsYXN0aWZpY2FkbyI6IDIsCiAgICAiaW1wcmVzaW9uIjogIjQvMCIsCiAgICAidGVjbm9sb2dpYSI6IDEKICB9LAogICJkaXJlY2Npb25lcyI6IFsKICAgIHsKICAgICAgImRpcmVjY2lvbklkIjogIjIiLAogICAgICAiZWplbXBsYXJlcyI6IDUwMAogICAgfQogIF0KfQ==\",\n  \"commitMsg\": \"Test ANAYA 3115680 (2026-01-02-11-48-31)\"\n}",
+  "commitMessage": "Test ANAYA 3115680 (2026-01-02-11-48-31)"
+}
